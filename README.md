@@ -1,1 +1,1 @@
-# features-ECMAScript
+# ECMAScript-features
